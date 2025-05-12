@@ -14,7 +14,7 @@ class MarketAnalyzer {
 
     start() {
         if (this.ws) this.ws.close();
-        this.ws = new WebSocket('wss://ws.binaryws.com/websockets/v3?app_id=68848');
+        this.ws = new WebSocket('wss://ws.binaryws.com/websockets/v3?app_id=69271');
         
         this.ws.onopen = () => {
             // Subscribe to all markets
