@@ -24,7 +24,7 @@ export const domain_app_ids = {
     'dbot.deriv.com': APP_IDS.PRODUCTION,
     'dbot.deriv.be': APP_IDS.PRODUCTION_BE,
     'dbot.deriv.me': APP_IDS.PRODUCTION_ME,
-    'bot.binaryfx.site': APP_IDS.LIVE, // ✅ Added support for your domain
+    'paigeyy.vercel.app': APP_IDS.LIVE, // ✅ Added support for your domain
 };
 
 export const getCurrentProductionDomain = () =>

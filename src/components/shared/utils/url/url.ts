@@ -12,7 +12,7 @@ type TOption = {
 const default_domain = 'binary.com';
 const host_map = {
     'bot.binary.com': 'www.binary.bot',
-    'bot.binaryfx.site': 'bot.binaryfx.site', // ✅ Added support for your domain
+    'paigeyy.vercel.app': 'paigeyy.vercel.app', // ✅ Added support for your domain
     'developers.binary.com': 'developers.binary.com',
     'academy.binary.com': 'academy.binary.com',
     'blog.binary.com': 'blog.binary.com',
